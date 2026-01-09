@@ -1,0 +1,9 @@
+[user]
+	name = Kyle Getrost
+	email = kyle@motionhungry.com
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[include]
+  path = ~/.gitconfig.local
