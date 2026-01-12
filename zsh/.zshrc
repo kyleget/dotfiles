@@ -33,3 +33,6 @@ alias gcm='git commit -m'
 alias gpsh='git push'
 alias gss='git status -s'
 alias gs="git status"
+
+# Source local zshrc if it exists
+[ -f "$HOME/.zshrc.local" ] && source "$HOME/.zshrc.local"
